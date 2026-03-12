@@ -103,3 +103,4 @@ Atomic CRM components are published as a Shadcn Registry file:
 
 This project is licensed under the MIT License, courtesy of [Marmelab](https://marmelab.com). See the [LICENSE.md](./LICENSE.md) file for details.
 # atomic-crm
+# atomic-crm
