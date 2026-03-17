@@ -1,0 +1,23 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "atomic-crm",
+  "title": "Atomic CRM",
+  "description": "A fully fledged CRM application built with Shadcn Admin Kit",
+  "dependencies": [
+    "@hello-pangea/dnd@^18.0.1",
+    "@nivo/bar@^0.99.0",
+    "faker@^5.5.3",
+    "jsonexport@^3.2.0",
+    "papaparse@^5.5.3",
+    "ra-supabase-core@^3.5.1",
+    "ra-supabase-language-english@^3.5.0",
+    "zod@^4.0.5"
+  ],
+  "registryDependencies": [
+    "progress",
+    "tabs",
+    "https://marmelab.com/shadcn-admin-kit/r/admin.json"
+  ],
+  "files": [],
+  "type": "registry:block"
+}
